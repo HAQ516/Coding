@@ -57,8 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/HAQ516/Coding/tree/master/0264-ugly-number-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
+## Array
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
