@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HAQ516/Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HAQ516/Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
