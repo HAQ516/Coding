@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
