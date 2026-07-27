@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HAQ516/Coding/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -24,9 +25,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HAQ516/Coding/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
