@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/HAQ516/Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HAQ516/Coding/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/HAQ516/Coding/tree/master/0264-ugly-number-ii) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
