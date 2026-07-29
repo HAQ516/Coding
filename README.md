@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HAQ516/Coding/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/HAQ516/Coding/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/HAQ516/Coding/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/HAQ516/Coding/tree/master/0409-longest-palindrome) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HAQ516/Coding/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 <!---LeetCode Topics End-->
