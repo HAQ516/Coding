@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/HAQ516/Coding/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/HAQ516/Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HAQ516/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HAQ516/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HAQ516/Coding/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/HAQ516/Coding/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/HAQ516/Coding/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/HAQ516/Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HAQ516/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/HAQ516/Coding/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/HAQ516/Coding/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
@@ -113,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
