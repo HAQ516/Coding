@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/HAQ516/Coding/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/HAQ516/Coding/tree/master/1991-find-the-middle-index-in-array) |
+| [2090-k-radius-subarray-averages](https://github.com/HAQ516/Coding/tree/master/2090-k-radius-subarray-averages) |
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
 ## Sorting
 |  |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HAQ516/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
+| [2090-k-radius-subarray-averages](https://github.com/HAQ516/Coding/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
