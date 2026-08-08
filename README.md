@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HAQ516/Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HAQ516/Coding/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HAQ516/Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HAQ516/Coding/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/HAQ516/Coding/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
